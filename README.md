@@ -23,6 +23,7 @@ Install Python
 
 ### SCREENSHOTS <br>
 ![image](https://user-images.githubusercontent.com/67144582/180590589-4b91cec6-80f2-49c4-9d5b-a0a12163f5c4.png)<br>
+![image](https://user-images.githubusercontent.com/67144582/180590906-c78fda12-e862-404f-a5f2-c6b79d117755.png)
 
 
 ## HOW TO RUN ON YOUR PC?
@@ -33,3 +34,4 @@ Like this..
 - And place the release file (Trainner.yml) into "TrainingImageLabel" folder
 - Now click on "Click Me.bat" to run the Project. 
 - Thank You ❤️
+
